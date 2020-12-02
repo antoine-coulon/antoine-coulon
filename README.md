@@ -39,6 +39,8 @@ require("openurl").open("https://antoinecoulon.fr")
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/WTO8QA0mX2Cfw5vhkp/giphy.gif" width="500" height="370"/>
 <br />
+<br />
+<br />
 <p align="center">
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" width="130px" height="40px"/>
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" height="40px" width="110px"/>
