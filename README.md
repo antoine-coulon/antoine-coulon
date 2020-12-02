@@ -37,7 +37,7 @@ require("openurl").open("https://antoinecoulon.fr")
 
 **For storage, delivery and integration, I mostly use :**
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/WTO8QA0mX2Cfw5vhkp/giphy.gif" width="400" height="320"/>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/WTO8QA0mX2Cfw5vhkp/giphy.gif" width="500" height="370"/>
 <br />
 <p align="center">
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" width="130px" height="40px"/>
