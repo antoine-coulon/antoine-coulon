@@ -21,4 +21,4 @@ You also can find some of the talks I gave:
 
 And other stuff:
 
-- [Hands-On podcast: an introduction to Effect, next-generation TypeScript](https://www.youtube.com/watch?v=MpmNN4L5xTY) (12/06/2030)
+- [Hands-On podcast: an introduction to Effect, next-generation TypeScript](https://www.youtube.com/watch?v=MpmNN4L5xTY) (12/06/2023)
