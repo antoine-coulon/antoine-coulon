@@ -16,7 +16,7 @@ Interested in solving universal software engineering problems and also sharing m
 You also can find some of the talks I gave:
 
 -  [Building skott: a journey of Effect-Driven Development](https://www.youtube.com/watch?v=eQPvfYMheng) @ [Effect Days #1](https://effect.website/events/effect-days) conference (02/23/2024)
--  [Effect introduction, the whys](https://app.getcontrast.io/watch/paris-typescript-paris-typescript-35) @ [Paris TypeScript #35](https://www.meetup.com/paris-typescript/events/297232045/) meetup (12/12/2023)
+-  [Effect introduction, the whys](https://www.youtube.com/watch?v=IAegPM0fzbs) @ [Paris TypeScript #35](https://www.meetup.com/paris-typescript/events/297232045/) meetup (12/12/2023)
 -  [Unleashing the power of graphs with skott]() @ [Accelerator #1](https://www.meetup.com/fr-FR/accelerator-engineering/events/297557363) (12/06/2023)
 -  [Azure and Node.js, the good, the bad, the ugly](https://antoine-coulon.github.io/azure-app-service-and-nodejs-talk/1) @ [DevTalks #22](https://www.meetup.com/devtalks-net/events/296719027/) (10/30/2023)
 
