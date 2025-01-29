@@ -9,9 +9,9 @@
 
 Hello, I'm Antoine Coulon 👋
 
-I'm currently living in Paris and working there as a Freelance Lead Software Engineer. On my free time I build open source stuff including [skott](https://github.com/antoine-coulon/skott), [NodeSecure](https://github.com/NodeSecure), [Rushstack](https://github.com/microsoft/rushstack) and also advocating [Effect](https://effect.website/).
+I'm currently living in Paris and working there as a Freelance Lead Software Engineer, helping businesses succeed with tailored technical solutions.
 
-Interested in solving universal software engineering problems and also sharing my journey along the way.
+On my free time I build open source stuff including [skott](https://github.com/antoine-coulon/skott), [NodeSecure](https://github.com/NodeSecure), [Rushstack](https://github.com/microsoft/rushstack) and also advocating [Effect](https://effect.website/).
 
 You also can find some of the talks I gave:
 
@@ -24,3 +24,8 @@ You also can find some of the talks I gave:
 And other stuff:
 
 - [Hands-On podcast: an introduction to Effect, next-generation TypeScript](https://www.youtube.com/watch?v=MpmNN4L5xTY) (12/06/2023)
+
+### 📬 Interested in working together? Feel free to reach out!  
+
+📩 Email: [antoinecoulon.consulting@gmail.com](mailto:antoinecoulon.consulting@gmail.com)  
+💼 LinkedIn: [Let's connect](https://www.linkedin.com/in/antoine-coulon-c9)
