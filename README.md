@@ -15,6 +15,7 @@ On my free time I build open source stuff including [skott](https://github.com/a
 
 You also can find some of the talks I gave:
 
+- [Structured Concurrency: The hidden power behind Effect](https://www.youtube.com/watch?v=do5KCcCgS18) @ [Effect Days Conference #2](https://effect.website/events/effect-days) (03/20/2025)
 -  [Building skott: a journey of Effect-Driven Development](https://www.youtube.com/watch?v=eQPvfYMheng) @ [Effect Days Conference #1](https://effect.website/events/effect-days) (02/23/2024)
 -  [Uncovering Fibers: the hidden power behind the Effect library](https://github.com/antoine-coulon/uncovering-effect-fibers) @ [Effect Paris meetup #3](https://www.meetup.com/fr-FR/effect-paris/events/304021172) (11/05/2024)
 -  [Effect introduction, the whys](https://www.youtube.com/watch?v=IAegPM0fzbs) @ [Paris TypeScript meetup #35](https://www.meetup.com/paris-typescript/events/297232045/) (12/12/2023)
